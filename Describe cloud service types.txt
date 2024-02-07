@@ -1,0 +1,7 @@
+Microsoft Azure(PaaS), often referred to as Azure, is a cloud computing platform run by Microsoft. It offers access, management, and the development of applications and services through global data centers. It also provides a range of capabilities, including software as a service, platform as a service, and infrastructure as a service.This module covers the different cloud service types and shares some of the use cases and benefits aligned with each service type.
+
+- Infrastructure as a Service (IaaS).
+- Platform as a Service (PaaS).
+- Software as a Service (SaaS).
+
+Identify appropriate use cases for each cloud service (IaaS, PaaS, SaaS).
